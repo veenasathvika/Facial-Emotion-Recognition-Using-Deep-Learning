@@ -20,3 +20,4 @@ Resources Used:
 Packages: pandas, numpy, sklearn, matplotlib, seaborn, tensorflow.
 Dataset from Kaggle: https://www.kaggle.com/datasets/msambare/fer2013
 
+![image](https://github.com/user-attachments/assets/72319f25-0f23-4485-b0f9-91dcb9a2502b)
